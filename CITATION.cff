@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Se você utilizar este software, por favor cite-o conforme os metadados abaixo."
+title: "Linux Hardware & Network Inventory Auditor"
+version: "1.0.0"
+date-released: 2026-11-25
+authors:
+  - family-names: "Coimbra de Oliveira"
+    given-names: "Daniel"
+repository-code: "https://github.com/Danielcoimbra10/linux-hardware-network-auditor"
+keywords:
+  - linux
+  - inventory
+  - hardware-audit
+  - network-diagnostics
+  - bash-script
+  - system-administration
+license: MIT
