@@ -1,4 +1,5 @@
 # Linux Hardware & Network Inventory Auditor
+[![DOI](https://zenodo.org/badge/1472069045.svg)](https://doi.org/10.5281/zenodo.24538610)
 
 Ferramenta desenvolvida em Shell Script (Bash) para coleta automatizada de inventário de hardware, diagnóstico de interfaces de rede e auditoria de sistemas operacionais baseados em Linux, gerando relatórios estruturados nos formatos **TXT** e **JSON**.
 
